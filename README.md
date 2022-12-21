@@ -7,4 +7,7 @@ I aim to become a fullstack developer with Angular/React and .NET Core, below ar
 - **keywords:** 
   - .NET Core 6,
   - SQL Server
+- **Swagger result:**
+
+<img src="./img/1_swagger.png" alt="" width="350" >
   
