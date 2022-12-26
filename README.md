@@ -10,4 +10,15 @@ I aim to become a fullstack developer with Angular/React and .NET Core, below ar
 - **Swagger result:**
 
 <img src="./img/1_swagger.png" alt="" width="350" >
+
+## #2 HotelListing - Enterprise-level Web API _(currently in development)_
+**[[ C# CODE ](https://github.com/gorj00/NET.Core_API_HotelListing)]**
+
+- **keywords:** 
+  - .NET Core 5,
+  - SQL Server
+  - Repository and Unit of Work patterns, 
+  - Logger, data seeding, DTOs, 
+  - User identity and authentication
+
   
