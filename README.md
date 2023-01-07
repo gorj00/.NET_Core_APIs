@@ -11,7 +11,7 @@ I aim to become a fullstack developer with Angular/React and .NET Core, below ar
 
 <img src="./img/1_swagger.png" alt="" width="350" >
 
-## #2 HotelListing - Enterprise-level Web API _(currently in development)_
+## #2 HotelListing - Enterprise-level Web API
 **[[ C# CODE ](https://github.com/gorj00/NET.Core_API_HotelListing)]**
 
 - **keywords:** 
@@ -20,5 +20,6 @@ I aim to become a fullstack developer with Angular/React and .NET Core, below ar
   - Repository and Unit of Work patterns, 
   - Logger, data seeding, DTOs, 
   - User identity and authentication
-
+  - JWT token generation
+  - protecting routes with authorization
   
