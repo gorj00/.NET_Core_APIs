@@ -1,7 +1,18 @@
 # .NET Core APIs
-I aim to become a fullstack developer with Angular/React and .NET Core, below are projects that I developed to learn it. 
 
-## #1 SuperHero CRUD - Simple demonstration
+## #1 Employee Manager - Fullstack demonstration (.NET Core 8 + MS SQL database + Angular frontend)
+**[[ C# + Angular CODE ](https://github.com/gorj00/Angular---.NET-Core-8-API---EmployeeManager)]** || **[[ LIVE DEMO ]](https://ashy-grass-05653e71e-preview.westus2.5.azurestaticapps.net/)**
+
+- **keywords:** 
+  - .NET Core 8, deployed on Azure
+  - MS SQL database (Azure)
+  - Angular 17 on frontend (inside project as well)
+  - Repository and Unit of Work patterns, 
+  - DTOs,
+  - One-to-Many, Many-to-Many relationships
+  
+
+## #2 SuperHero CRUD - Simple demonstration
 **[[ C# CODE ](https://github.com/gorj00/NET.Core_API_SuperHeroes_CRUD)]**
 
 - **keywords:** 
@@ -11,7 +22,7 @@ I aim to become a fullstack developer with Angular/React and .NET Core, below ar
 
 <img src="./img/1_swagger.png" alt="" width="350" >
 
-## #2 HotelListing - Enterprise-level Web API
+## #3 HotelListing - Enterprise-level Web API
 **[[ C# CODE ](https://github.com/gorj00/NET.Core_API_HotelListing)]**
 
 - **keywords:** 
